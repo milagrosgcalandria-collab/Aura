@@ -1,0 +1,8 @@
+{
+  "name": "Aura AI",
+  "description": "Una plataforma de IA avanzada que integra chat con búsqueda en tiempo real, generación de imágenes y asistente de voz en vivo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
